@@ -1,0 +1,31 @@
+body {
+    background-color: blueviolet;
+    font-size: 25px;
+}
+
+h1 {
+    color: black;
+    text-decoration: underline;
+}
+
+section {
+    margin-top: 15vh;
+}
+
+section #result{
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 30px;
+    vertical-align: middle;
+}
+
+#quote-author {
+    font-style: italic bold;
+    color:gold;
+
+}
+
+#quote-text {
+    color: white;
+}
+
